@@ -5,7 +5,7 @@ This project showcases a complete Retrieval-Augmented Generation pipeline that e
 ## Demo
 
 ### Working Demo
-[Watch the demo](demo.mp4)
+[Watch the demo](demo.gif)
 
 ### Gradio UI
 ![Gradio Interface](images/Gradio_UI.png)
